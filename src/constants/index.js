@@ -19,9 +19,6 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
     python,
     c,
@@ -32,6 +29,7 @@ import {
     akshay,
     Samman,
     Kuldeep,
+    Kanban,
 } from "../assets";
 
 export const navLinks = [
@@ -247,7 +245,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
+        image: Kanban,
         source_code_link: "https://github.com/Shubhammal/Kanban_board",
     },
 ];

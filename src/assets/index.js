@@ -39,6 +39,7 @@ import sport_web from './sport_web.png'
 import akshay from './akshay.png'
 import Samman from './Samman.png'
 import Kuldeep from './Kuldeep.png'
+import Kanban from './Kanban.png'
 export {
   logo,
   backend,
@@ -65,9 +66,6 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
   python,
   c,
   school,
@@ -77,4 +75,5 @@ export {
   akshay,
   Samman,
   Kuldeep,
+  Kanban,
 };
